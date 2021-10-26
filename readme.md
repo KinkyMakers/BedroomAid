@@ -14,7 +14,7 @@ Bill of Materials;
   - (pack shown for convenience, you only require one machine screw) 
 - (4) [M3 x 8mm Socket Head Cap Screw](https://www.amazon.ca/NINDEJIN-Socket-Screws-1060pcs-Assortment/dp/B07PHYJ8BB/ref=sr_1_5?crid=1A1V8CVRALXOM&dchild=1&keywords=socket+head+cap+screw+assortment&qid=1635208436&sprefix=socket+head+cap+screw+assortment%2Caps%2C96&sr=8-5)
   - (pack shown for convenience, you only require four machine screws) 
-- 1/2" Velcro or Zip tie to hold mechanism to body of stand mixer
+- (1/2" Velcro or Zip tie to hold mechanism to body of stand mixer)[https://www.amazon.ca/VELCRO-USA-189755-Wrap-888-Black/dp/B071Y3TVNT/ref=sr_1_4?crid=3T2AFVFNDV37K&dchild=1&keywords=1%2F2%22+velcro&qid=1635208831&sprefix=1%2F2+velcro%2Caps%2C160&sr=8-4]
 - Printed parts in this respository
 
 
